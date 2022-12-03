@@ -1,0 +1,6 @@
+select * from Students
+    where Country in
+    ('Sint Maarten', 'Haiti');
+
+
+
